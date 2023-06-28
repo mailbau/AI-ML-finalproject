@@ -18,7 +18,7 @@ To enhance the dataset, we applied data augmentation using Generative Adversaria
 To identify the most relevant features for the regression task, we applied backward elimination. This technique iteratively removes features that contribute the least to the model's performance, ultimately selecting the most significant ones.
 
 ## Performance Comparison Before and After Data Augmentation
-I evaluated the performance of each algorithm before and after data augmentation. To quantify the improvement, we performed a paired t-test to compare the performance of each algorithm, before and after augmentation.
+We evaluated the performance of each algorithm before and after data augmentation. To quantify the improvement, we performed a paired t-test to compare the performance of each algorithm, before and after augmentation.
 
 ## Performance Comparison After Data Augmentation
 After data augmentation, we compared the performance of each algorithm using a one-way ANOVA test. This statistical analysis allowed us to assess the significance of performance differences among the algorithms after augmentation.
