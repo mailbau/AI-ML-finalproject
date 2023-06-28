@@ -45,7 +45,7 @@ To reproduce the results, follow the instructions below:
 1. Clone this repository:
 
    ```shell
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/mailbau/AI-ML-finalproject.git
 2. Upload the entire repository folder to your Google Drive.
 3. Open the AIProject.ipynb notebook file using Google Colab or a Jupyter Notebook environment.
 4. Make sure the necessary dependencies are installed. If required, install any missing dependencies.
